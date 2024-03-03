@@ -1,0 +1,25 @@
+Animal list:
+
+Hyena Amount: 4
+Kamari Age: 4
+Shenzi Age: 12
+Bud Age: 4
+Wema Age: 8
+
+Lion Amount: 4
+Kimba Age: 6
+Elsa Age: 12
+Scar Age: 22
+Cecil Age: 4
+
+Tiger Amount: 4
+Tigger Age: 6
+Cuddles Age: 4
+Tony Age: 18
+Dave Age: 3
+
+Bear Amount: 4
+Paddington Age: 7
+Smokey Age: 25
+Snuggles Age: 4
+Bungle Age: 4
